@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 
 Hi! I'm Seungwon Yoo, a theory of Korean Traditional Music major at Hanyang University.
 
